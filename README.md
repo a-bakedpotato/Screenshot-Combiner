@@ -11,7 +11,7 @@ Made this mainly to combine all my genshin artifacts into a single image.
    If not, mess with them until the output is giving you what you want.
 
 ## Example Output
-<img src="https://cdn.discordapp.com/attachments/481625288883699713/878454701866225704/output.png" alt="example output" />
+https://cdn.discordapp.com/attachments/481625288883699713/878454701866225704/output.png
 <h6>The llama pictures are where I minimised the game by accident + The first one is the initial screenshot.</h6>
 
 ## Important Note
